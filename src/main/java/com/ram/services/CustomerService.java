@@ -30,7 +30,7 @@ public class CustomerService{
 
 //	@Override
 	public List<Customer> getCustomers() {
-		// TODO Auto-generated method stub
+		
 		return null;
 	}
 
